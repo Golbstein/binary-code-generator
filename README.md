@@ -3,6 +3,7 @@
 Generating A(n, d) codes in python
 
 ***The coding-theoretic function A(n,d) is the maximal size of a binary code of a length n with minimum distance d***
+[Some known tabulated values of A](https://towardsdatascience.com/lossless-triplet-loss-7e932f990b24)
 
 
 # Examples:
@@ -21,6 +22,3 @@ Generating A(n, d) codes in python
 
 * ## For A(12, 8) = 4
   - ['010011111000', '000000000011', '101100011100', '111111100111']
-
-
-[Some known tabulated values of A](https://towardsdatascience.com/lossless-triplet-loss-7e932f990b24)
